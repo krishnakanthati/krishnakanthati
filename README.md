@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :smile:  I'm a junior pursuing my Bachelors in Computer Science & Engineering.
+- 😄:  I'm a junior pursuing my Bachelors in Computer Science & Engineering.
 - 🤩 I'm interested in Open Source and Competitive Programming.
+
+- 🤝:  Feel free to connect with me on [Twitter](https://twitter.com/krishnakanthati) or [LinkedIn](https://www.linkedin.com/in/krishnakanthati/)
