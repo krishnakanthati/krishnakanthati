@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - :smile:  I'm a junior pursuing my Bachelors in Computer Science & Engineering.
-- 🤩: I'm interested in Open Source and Competitive Programming.
+- 🤩 I'm interested in Open Source and Competitive Programming.
