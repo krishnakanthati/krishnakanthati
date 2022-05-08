@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I'm a junior pursuing my Bachelors in Computer Science & Engineering.
-- 🤩 I'm passionate about Open Source and Competitive Programming.
+- 🤩 I'm passionate about Open Source and [Competitive Programming](https://www.codechef.com/users/kris_08).
 - 🤝 Feel free to connect with me on [Twitter](https://twitter.com/krishnakanthati) or [LinkedIn](https://www.linkedin.com/in/krishnakanthati/)
