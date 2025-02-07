@@ -1,20 +1,32 @@
-### Hi there 👋, I'am Kris!
+### Hi there 👋, I'm Krishna Kant Hati!
 
-<!--
-**krishnakanthati/krishnakanthati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Software Engineer** specializing in **backend development, cloud infrastructure, and distributed systems**. Passionate about building **scalable applications**, **cloud-native solutions**, and solving **complex data structures & algorithms** problems.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Interests:
+- **Backend:** Java (Spring Boot), Python, REST APIs, Microservices
+- **Cloud & DevOps:** AWS, Kubernetes (K8s), Docker, Rancher
+- **Databases & Caching:** MongoDB, Hazelcast, Elasticsearch
+- **Monitoring & Logging:** Grafana, Prometheus, Fluentd, Kibana
+- **Web Technologies:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Competitive Programming:** Graphs, Trees, Dynamic Programming, Binary Search
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects:
+- 🔹 **[Hiipal.com](http://hiipal.com)** - Built a **real-time global networking platform** with WebRTC, JWT authentication, and responsive UI.
+- 🔹 Developed an **authorization-driven permission management system**, reducing unauthorized access incidents by **90%**.
+- 🔹 Deployed **Rancher on 75+ RHEL VMs** using Infrastructure as Code (IaC).
 
-- 😄 I'm a junior pursuing my Bachelors in Computer Science & Engineering.
-- 🤩 I'm passionate about Open Source and [Competitive Programming](https://www.codechef.com/users/kris_08).
-- 🤝 Feel free to connect with me on [Twitter](https://twitter.com/krishnakanthati) or [LinkedIn](https://www.linkedin.com/in/krishnakanthati/)
+### 🏆 Achievements:
+- 🏅 **All India Rank 302** in CodeChef's C.O.D.E.R.S contest.
+- 🎖️ **1st rank out of 750+ students** on GeeksforGeeks coding platform.
+- ⭐ **Star of the Month** at Tecnotree (Jun ‘23).
+- 🏆 Solved **300+ DSA problems** on LeetCode & InterviewBit.
+
+### 📫 Connect with Me:
+- 🔗 **LinkedIn:** [krishnakanthati](http://linkedin.com/in/krishnakanthati)
+- 🐦 **Twitter (X):** [krishnakanthati](https://x.com/krishnakanthati)
+- 💻 **GitHub:** [krishnakanthati](http://github.com/krishnakanthati)
+- 👨‍💻 **LeetCode:** [krishnakanthati](http://leetcode.com/krishnakanthati)
+- 📘 **GeeksforGeeks:** [krishnakanthati](https://www.geeksforgeeks.org/user/krishnakanthati/)
+- ♟️ **Chess.com:** [krishnakanthati](https://www.chess.com/member/krishnakanthati)
+
+Let's build something amazing together! 🚀
