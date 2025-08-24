@@ -23,7 +23,6 @@ I am a **Senior Software Engineer** specializing in **backend development, cloud
 
 ### 📫 Connect with Me:
 - 🔗 **LinkedIn:** [krishnakanthati](http://linkedin.com/in/krishnakanthati)
-- 🐦 **Twitter (X):** [krishnakanthati](https://x.com/krishnakanthati)
 - 💻 **GitHub:** [krishnakanthati](http://github.com/krishnakanthati)
 - 👨‍💻 **LeetCode:** [krishnakanthati](http://leetcode.com/krishnakanthati)
 - 📘 **GeeksforGeeks:** [krishnakanthati](https://www.geeksforgeeks.org/user/krishnakanthati/)
